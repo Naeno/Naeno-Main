@@ -14,3 +14,4 @@ For the purpose of this tutorial, you will only need to download and use OBS Cla
  - Use Custom Buffer Size: Enabled
  - Buffer Size: 0
 * ![Step Two](https://github.com/Naeno/OBS-Replay-Buffer-Tutorial/blob/master/assets/Step%202.png)
+3. Teststet
