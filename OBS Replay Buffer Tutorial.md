@@ -8,6 +8,7 @@ For the purpose of this tutorial, you will only need to download and use OBS Cla
 Start up OBS Classic and create a new Scene along with a new Source within the scene that captures what you want.
 ![Step One](https://github.com/Naeno/OBS-Replay-Buffer-Tutorial/blob/master/assets/Step%201.png)
 
+
 Click on Settings and then head to **Encoding**. Set your settings to such:
 ![Step Two](https://github.com/Naeno/OBS-Replay-Buffer-Tutorial/blob/master/assets/Step%202.png)
  - Use CBR: Disabled
@@ -15,6 +16,7 @@ Click on Settings and then head to **Encoding**. Set your settings to such:
  - Birate: 1000
  - Use Custom Buffer Size: Enabled
  - Buffer Size: 0
+ 
  
 Head to **Broadcast Settings** and look to where it says *Replay Buffer Length (seconds)*. 
 ![Step Three](https://github.com/Naeno/OBS-Replay-Buffer-Tutorial/blob/master/assets/Step%203.png)
