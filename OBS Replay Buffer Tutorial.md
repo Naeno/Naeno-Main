@@ -6,3 +6,4 @@ For the purpose of this tutorial, you will only need to download and use OBS Cla
 
 # How to set it up
 1. Start up OBS Classic and create a new Scene along with a new Source within the scene that captures what you want.
+({{ site.url }}/assets/step_1.png)
