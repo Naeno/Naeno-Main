@@ -9,7 +9,7 @@ For the purpose of this tutorial, you will only need to download and use OBS Cla
 ![Step One](https://github.com/Naeno/OBS-Replay-Buffer-Tutorial/blob/master/assets/Step%201.png)
 2. Click on Settings and then head to Encoding. Set your settings to such:
  - Use CBR: Disabled
-  - Quality Balance: 10
-  - Birate: 1000
-  - Use Custom Buffer Size: Enabled
-  - Buffer Size: 0
+ - Quality Balance: 10
+ - Birate: 1000
+ - Use Custom Buffer Size: Enabled
+ - Buffer Size: 0
