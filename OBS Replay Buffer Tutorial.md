@@ -26,6 +26,6 @@ For the purpose of this tutorial, you will only need to download and use OBS Cla
  - Custom x264 Parameters: crf=X
    - X is anywhere from 1-20, lower being higher quality / higher CPU usage. A good place to start is the 15 - 20 range. A CRF of 0 enables a recording with zero quality loss but have will have a very large file size and require a lot from your CPU.
 
-
+7. Now your settings should be all good. To start the Replay Buffer, you need to go back to the main section of OBS and click the dropdown menu next to *Start Recording*. In the dropdown menu, you should see the option to *Start Replay Buffer*. Click that option and then you may minimize and forget about OBS for the rest of the day. Now whenever a moment happens that you wish to save, press your Save Replay Buffer hotkey (from step 5) and a video of X length (the amount of seconds you specified in step 4) will be recorded to your disk on the path you specified (in step 4). 
 
 
