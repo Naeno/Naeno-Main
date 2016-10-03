@@ -7,3 +7,9 @@ For the purpose of this tutorial, you will only need to download and use OBS Cla
 # How to set it up
 1. Start up OBS Classic and create a new Scene along with a new Source within the scene that captures what you want.
 ![Step One](https://github.com/Naeno/OBS-Replay-Buffer-Tutorial/blob/master/assets/Step%201.png)
+2. Click on Settings and then head to Encoding. Set your settings to such:
+  Use CBR: Disabled
+  Quality Balance: 10
+  Birate: 1000
+  Use Custom Buffer Size: Enabled
+  Buffer Size: 0
