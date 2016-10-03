@@ -24,7 +24,7 @@ For the purpose of this tutorial, you will only need to download and use OBS Cla
  - x264 CPU Preset: Ultrafast
  - Use Custom x264 Parameters: Enabled
  - Custom x264 Parameters: crf=X
-  - X is anywhere from 1-20, lower being higher quality / higher CPU usage. A good place to start is the 15 - 20 range. A CRF of 0 enables a recording with zero quality loss but have will have a very large file size and require a lot from your CPU.
+   - X is anywhere from 1-20, lower being higher quality / higher CPU usage. A good place to start is the 15 - 20 range. A CRF of 0 enables a recording with zero quality loss but have will have a very large file size and require a lot from your CPU.
 
 
 
